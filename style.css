@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Ravi+Prakash&display=swap');
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: #900C3F;
+}
+h1{
+  text-align: center;
+  margin-top: 5%;
+  font-family: 'Ravi Prakash', cursive;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+button{
+  padding: 8px 20px 8px 20px;
+  border-radius: 50px;
+  outline: none;
+  background-color: #512E5F;
+  color: #ffc300;
+}
+img{
+  margin-top: 10%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height:80%;
+  
+}
+.off{
+  margin-left: 18px;
+  margin-top: 10%;
+}
+.on{
+  margin-left: 20%;
+  margin-top: 10%;
+}
